@@ -34,6 +34,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O Habits é app para ajudar a rastrear os hábitos.
 
+- [Visite o projeto online](https://jotapek.github.io/nlw-setup1)
 
 ## 🔖 Layout
 
